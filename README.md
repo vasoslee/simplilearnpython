@@ -1,3 +1,3 @@
 # simplilearnpython
 Simplilearn Python
-Jupyter Numpy Notebooks
+Numpy Notebooks
